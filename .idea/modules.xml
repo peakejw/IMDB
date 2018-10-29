@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IMDBPredict/IMDBPredict.iml" filepath="$PROJECT_DIR$/IMDBPredict/IMDBPredict.iml" />
       <module fileurl="file://$PROJECT_DIR$/socialNetProj.iml" filepath="$PROJECT_DIR$/socialNetProj.iml" />
     </modules>
   </component>
